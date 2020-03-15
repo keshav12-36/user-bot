@@ -1,7 +1,6 @@
 {
-  "name": "X-tra Telegram",
-  "description": "Userbot created by a SNAPDRAGON and custom fork by ANUBIS\n\n join https://t.me/XtraTgChat for any problems or support",
-  "logo": "https://telegra.ph/file/1be6c59f53fef57b5745b.jpg",
+  "name": " USER-BOT",
+  "description": "Userbot created by @TECHNICALHACKERZ",
   "keywords": [
     "telegram",
     "userbot",
@@ -9,7 +8,7 @@
     "modular",
     "productivity"
   ],
-  "repository": "https://github.com/Dark-Princ3/X-tra-Telegram/",
+  "repository": "https://github.com/hackerzkali/user-bot/",
   "website": "#TODO",
   "success_url": "#TODO",
   "env": {
@@ -32,6 +31,14 @@
     },
     "STRING_SESSION": {
       "description": "Get this value by running python3 telesetup.py locally",
+      "value": ""
+    },
+    "PRIVATE_GROUP_ID": {
+      "description": "PRIVATE GROUP ID",
+      "value": ""
+    },
+    "PRIVATE_GROUP_BOT_API_ID": {
+      "description": "PRIVATE GROUP ID",
       "value": ""
     },
     "MAX_FLOOD_IN_P_M_s": {
