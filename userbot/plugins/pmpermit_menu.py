@@ -3,7 +3,6 @@
 Support chatbox for pmpermit.
 Used by incoming messages with trigger as /start
 Will not work for already approved people.
-Credits: written by ༺αиυвιѕ༻ {@A_Dark_Princ3}
 """
 import asyncio
 import io 
@@ -15,7 +14,7 @@ from userbot import ALIVE_NAME, LESS_SPAMMY
 from userbot.utils import admin_cmd
 
 
-DEFAULTUSER = str(ALIVE_NAME) if ALIVE_NAME else "No name set yet nibba, check pinned message in @XtraTgBot"
+DEFAULTUSER = str(ALIVE_NAME) if ALIVE_NAME else "No name set yet nibba, check pinned message in @TECHNICALHACKERZ"
 PREV_REPLY_MESSAGE = {}
 
 
