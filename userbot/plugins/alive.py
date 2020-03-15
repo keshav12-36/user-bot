@@ -15,4 +15,4 @@ async def amireallyalive(alive):
                      "`Telethon version: 6.9.0\nPython: 3.7.3\nFork by:` @TECHNICALHACKERZ\n"
                      "`Bot created by:` [SnapDragon](tg://user?id=719877937)\n"
                      "`Database Status: Databases functioning normally!\n\nAlways with you, my master!\n`"
-                     "`This is [My Code](https://github.com/hackerzkali/user-bot) You Create user-bot like me`"
+                     "This is [My Code](https://github.com/hackerzkali/user-bot)") 
