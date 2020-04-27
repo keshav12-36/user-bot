@@ -125,5 +125,9 @@
     "url": "https://github.com/opendoor-labs/heroku-buildpack-p7zip"
   },{
     "url": "heroku/python"
+  },{
+    "url": "heroku/php"
+  },{
+    "url": "https://github.com/stevenosloan/heroku-buildpack-apache.git"
   }]
 }
